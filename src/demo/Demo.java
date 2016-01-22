@@ -16,7 +16,7 @@ public class Demo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("chafo thay hoang");
+        System.out.println("chao thay hoang dep trai va ca lop");
     }
     
 }
